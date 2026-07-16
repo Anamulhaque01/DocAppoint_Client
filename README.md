@@ -4,8 +4,8 @@ A responsive full-stack serverless web application connecting patients with medi
 
 ## 🚀 Live Links
 
-- **Frontend UI (Vercel):** [https://ph-assignment-client-09.vercel.app/](https://ph-assignment-client-09.vercel.app/)
-- **Backend API (Vercel):** [https://ph-assignment-server-09.vercel.app/](https://ph-assignment-server-09.vercel.app/)
+- **Project Url (Vercel):** [https://doc-appoint-client-five.vercel.app/](https://doc-appoint-client-five.vercel.app/)
+-
 
 ---
 
