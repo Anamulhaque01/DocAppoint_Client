@@ -5,7 +5,6 @@ A responsive full-stack serverless web application connecting patients with medi
 ## 🚀 Live Links
 
 - **Project Url (Vercel):** [https://doc-appoint-client-five.vercel.app/](https://doc-appoint-client-five.vercel.app/)
--
 
 ---
 
